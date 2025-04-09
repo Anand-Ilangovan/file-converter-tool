@@ -10,9 +10,7 @@ This is a Python-based GUI application that allows users to convert `.txt` or `.
 - Save output easily to your local drive
 - Simple and clean Tkinter GUI
 
-## 🖼️ Screenshots
 
-*(Add screenshots here if you have any!)*
 
 ## 📦 Requirements
 
@@ -22,11 +20,6 @@ This project uses only standard Python libraries, but here's a requirements list
 tk
 ```
 
-Or generate it with:
-
-```bash
-pip freeze > requirements.txt
-```
 
 ## ⚙️ How to Run
 
