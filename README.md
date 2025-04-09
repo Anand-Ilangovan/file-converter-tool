@@ -66,7 +66,7 @@ This project is open source under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Your Name** – [@yourgithub](https://github.com/yourgithub)
+**Anand-Ilangovan** – [@yourgithub](https://github.com/Anand-Ilangovan)
 
 ---
 
